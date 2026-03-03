@@ -1,45 +1,36 @@
 ## Hi there, I'm Loretta 👋
-
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Power+BI+Developer];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+%26+Tableau+Developer;SQL+%7C+Python+%7C+Excel+Expert" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/loretta-adjerhore-031a84223/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:lorettaadjerhore"gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:lorettaadjerhore@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://loretta-adjerhore.github.io/data-analyst-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-1F4E79?style=for-the-badge&logo=github"></a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+## 🚀 About Me
+I'm a Data Analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My focus is on building dashboards that get used, automating repetitive reporting to free up teams for more strategic work, and creating models that help businesses plan smarter for the future. With an MBA and experience across finance, operations, retail, and healthcare analytics, I think in business outcomes first and technical solutions second.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy continuous learning, exploring new ideas, and solving complex problems. I love the "aha!" moment when data reveals something new and useful.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+### [🏆 Check Out My Full Portfolio Website](https://loretta-adjerhore.github.io/data-analyst-portfolio/)
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+## 🔭 What I'm Currently Working On
+- **Healthcare Analytics:** Analysing warfarin dosing patterns across 50,000 patient records to surface cost-saving opportunities using Python and SQL.
+- **Pharmaceutical Distribution Dashboard:** Building an interactive Power BI dashboard analysing £71.3M in distribution data across suppliers, regions, and product lines.
+- **European Retail Analytics:** Developing a Tableau dashboard exploring €5.32M in retail performance data to uncover revenue trends across multiple European markets.
 
-## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+## 🌱 Currently Learning
+- Advanced machine learning techniques in Python — scikit-learn, feature engineering, and model evaluation.
+- Cloud data warehousing with Google BigQuery and dbt for modern analytics engineering.
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
 #### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
@@ -49,7 +40,8 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Pandas-Intermediate-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Skill Badge">
+  <img src="https://img.shields.io/badge/Scikit--learn-Intermediate-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
@@ -58,4 +50,6 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-Experienced-6C5CE7?style=flat" alt="ETL Pipelines Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Governance-Experienced-00B894?style=flat" alt="Data Governance Skill Badge">
 </p>
